@@ -1,6 +1,6 @@
 # Certificates
 
-A collection of my Coursera, edX and other certificates.
+A collection of my Coursera and other certificates.
 
 Check out my [LinkedIn](https://www.linkedin.com/in/rahulavadhoot/) 
 profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-portfolio/), and [website](http://rahulavadhoot.github.io/) for more information.
