@@ -1,6 +1,6 @@
 # Certificates
 
-A collection of my Coursera, edX and other certificates.
+A collection of my Coursera, LinkedIn Learning and other certificates.
 
 Check out my [LinkedIn](https://www.linkedin.com/in/rahulavadhoot/) 
 profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-portfolio/), and [website](http://rahulavadhoot.github.io/) for more information.
@@ -9,6 +9,7 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
 
 ### Data Science
 
+* [Machine Learning](https://github.com/rahulavadhoot/Certificates/Coursera/Data%20Science/Machine%20Learning.pdf)
 * [**Deep Learning Specialization**](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Deep%20Learning%20Specialization.pdf)
     * [Neural Networks and Deep Learning](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Neural%20Networks%20and%20Deep%20Learning.pdf)
     * [Structuring Machine Learning Projects](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Structuring%20Machine%20Learning%20Projects.pdf)
@@ -31,5 +32,14 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
 * [The Diversity of Exoplanets](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/The%20Diversity%20of%20Exoplanets.pdf)
 * [Vital Signs - Understanding What the Body Is Telling Us](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Vital%20Signs%20-%20Understanding%20What%20the%20Body%20Is%20Telling%20Us.pdf)
 * [Introduction to Forensic Science](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Introduction%20to%20Forensic%20Science.pdf)
+
+## LinkedIn Learning
+
+### Data Science
+
+* [Data Science Foundations - Fundamentals](https://github.com/rahulavadhoot/Certificates/LinkedIn%20Learning/Data%20Science%20Foundations%20-%20Fundamentals.pdf)
+* [Bracketology Club - Using March Madness to Learn Data Science](https://github.com/rahulavadhoot/Certificates/LinkedIn%20Learning/Bracketology%20Club%20-%20Using%20March%20Madness%20to%20Learn%20Data%20Science.pdf)
+* [Data Science & Analytics Career Paths & Certifications - First Steps](https://github.com/rahulavadhoot/Certificates/LinkedIn%20Learning/Data%20Science%20&%20Analytics%20Career%20Paths%20&%20Certifications%20-%20First%20Steps.pdf)
+* [Learning SQL Programming](https://github.com/rahulavadhoot/Certificates/LinkedIn%20Learning/LearningSQL%20Programming.pdf)
 
 Contact me at rahul.avadhoot@gmail.com to talk about my certificates, work opportunities, or collaborations.
