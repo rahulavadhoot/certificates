@@ -9,7 +9,12 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
 
 ### Data Science
 
+* [**Applied Data Science Specialization**](https://www.coursera.org/specializations/applied-data-science)
+    * [Python for Data Science](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Python%20for%20Data%20Science.pdf)
+    * [Data Visualizations with Python](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Data%20Visualizations%20with%20Python.pdf)
+
 * [Machine Learning](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Machine%20Learning.pdf)
+
 * [**Deep Learning Specialization**](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Deep%20Learning%20Specialization.pdf)
     * [Neural Networks and Deep Learning](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Neural%20Networks%20and%20Deep%20Learning.pdf)
     * [Structuring Machine Learning Projects](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Structuring%20Machine%20Learning%20Projects.pdf)
