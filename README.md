@@ -9,6 +9,9 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
 
 ### Data Science
 
+* ***IBM:*** [**Introduction to Data Science Specialization**](https://www.coursera.org/specializations/introduction-data-science)
+    * [Databases and SQL for Data Science](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Databases%20and%20SQL%20for%20Data%20Science.pdf)
+
 * ***IBM:*** [**Applied Data Science Specialization**](https://www.coursera.org/specializations/applied-data-science)
     * [Python for Data Science](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Python%20for%20Data%20Science.pdf)
     * [Data Analysis with Python](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Data%20Analysis%20with%20Python.pdf)
