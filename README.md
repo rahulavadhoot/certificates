@@ -50,6 +50,8 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
     * [Data Science & Analytics Career Paths & Certifications - First Steps](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Data%20Science%20&%20Analytics%20Career%20Paths%20&%20Certifications%20-%20First%20Steps.pdf)
     * [Data Science Foundations - Fundamentals](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Data%20Science%20Foundations%20-%20Fundamentals.pdf)
     * [Statistics Foundations 1](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Statistics%20Foundations%201.pdf)
+    * [Learning Data Governance](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20Data%20Governance.pdf)
+
 
 * ***Learning Path:*** [**Master SQL for Data Science**](https://www.linkedin.com/learning/paths/master-sql-for-data-science)
     * [Learning SQL Programming](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20SQL%20Programming.pdf)
