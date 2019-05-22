@@ -59,7 +59,7 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
 * ***Learning Path:*** [**Master SQL for Data Science**](https://www.linkedin.com/learning/paths/master-sql-for-data-science)
     * [Learning SQL Programming](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20SQL%20Programming.pdf)
 
-* [Learning Git and GitHub](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20Git%20and%20GitHub.pdf)
+* [Learning Git and GitHub](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20Git%20and%20Github.pdf)
 * [Python - XML, JSON, and the Web](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Python%20-%20XML,%20JSON,%20and%20the%20Web.pdf)
 
 Contact me at rahul.avadhoot@gmail.com to talk about my certificates, work opportunities, or collaborations.
