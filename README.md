@@ -9,17 +9,16 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
 
 ### Data Science
 
-* ***IBM:*** [**Introduction to Data Science Specialization**](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Introduction%20to%20Data%20Science.pdf)
+* ***IBM:*** [**IBM Data Science Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-data-science)
     
-    * [What is Data Science?](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/What%20is%20Data%20Science?.pdf)
+    * [What is Data Science?](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/What%20is%20Data%20Science%3F.pdf)
     * [Open Source tools for Data Science](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Open%20Source%20tools%20for%20Data%20Science.pdf)
     * [Data Science Methodology](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Data%20Science%20Methodology.pdf)
+    * [Python for Data Science and AI](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Python%20for%20Data%20Science%20and%20AI.pdf)    
     * [Databases and SQL for Data Science](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Databases%20and%20SQL%20for%20Data%20Science.pdf)
- 
-* ***IBM:*** [**Applied Data Science Specialization**](https://www.coursera.org/specializations/applied-data-science)
-    * [Python for Data Science](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Python%20for%20Data%20Science.pdf)
     * [Data Analysis with Python](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Data%20Analysis%20with%20Python.pdf)
-    * [Data Visualizations with Python](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Data%20Visualizations%20with%20Python.pdf)
+    * [Data Visualization with Python](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Data%20Visualization%20with%20Python.pdf)
+    * [Machine Learning with Python](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Machine%20Learning%20with%20Python.pdf)
 
 * ***Stanford University:*** [Machine Learning](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Machine%20Learning.pdf)
 
@@ -30,21 +29,12 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
     * [Improving Deep Neural Networks - Hyperparameter tuning, Regularization and Optimization](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning,%20Regularization%20and%20Optimization.pdf)
     * [Sequence Models](https://github.com/rahulavadhoot/Certificates/Coursera/Data%20Science/Sequence%20Models.pdf)
 
-### Programming
+* ***deeplearning.ai:*** [**TensorFlow in Practice Specialization**](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/TensorFlow%20in%20Practice%20Specialization.pdf)
+    * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence,%20Machine%20Learning,%20and%20Deep%20Learning.pdf)
+    * [Convolutional Neural Networks in TensorFlow](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Convolutional%20Neural%20Networks%20in%20TensorFlow.pdf)
+    * [Natural Language Processing in TensorFlow](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Natural%20Language%20Processing%20in%20TensorFlow.pdf)    
+    * [Sequences, Time Series and Prediction](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Sequences,%20Time%20Series%20and%20Prediction.pdf)
 
-* ***University of Michigan:*** [Programming for Everybody (Python)](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Programming%20for%20Everybody%20(Python).pdf)
-
-### Others
-
-* ***University of Pennsylvania:*** [Analyzing Global Trends for Business and Society](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Analyzing%20Global%20Trends%20for%20Business%20and%20Society.pdf)
-* ***University of Michigan:*** [Introduction to Finance](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Introduction%20to%20Finance.pdf)
-* ***University of Illinois at Urbana-Champaign:*** [Microeconomics Principles](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Microeconomics%20Principles.pdf)
-* ***University of California, Irvine:*** [Managing Your Time, Money, and Career - MBA Insights for Undergraduates](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Managing%20Your%20Time,%20Money,%20and%20Career%20-%20MBA%20Insights%20for%20Undergraduates.pdf)
-* ***Technical University of Denmark:*** [Organic Solar Cells - Theory and Practice](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Organic%20Solar%20Cells%20-%20Theory%20and%20Practice.pdf)
-* ***The University of Tokyo:*** [From the Big Bang to Dark Energy](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/From%20the%20Big%20Bang%20to%20Dark%20Energy.pdf)
-* ***University of Geneva:*** [The Diversity of Exoplanets](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/The%20Diversity%20of%20Exoplanets.pdf)
-* ***University of Pennsylvania:*** [Vital Signs - Understanding What the Body Is Telling Us](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Vital%20Signs%20-%20Understanding%20What%20the%20Body%20Is%20Telling%20Us.pdf)
-* ***Nanyang Technological University, Singapore:*** [Introduction to Forensic Science](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Introduction%20to%20Forensic%20Science.pdf)
 
 ## LinkedIn Learning
 
