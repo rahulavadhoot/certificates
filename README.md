@@ -52,7 +52,7 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
     * [Learning Data Governance](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20Data%20Governance.pdf)
 
 
-* ***Learning Path:*** [**Become a Python Developed**](https://www.linkedin.com/learning/paths/become-a-python-developer)
+* ***Learning Path:*** [**Become a Python Developer**](https://www.linkedin.com/learning/paths/become-a-python-developer)
     * [Advanced Python](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Advanced%20Python.pdf)
 
 * ***Learning Path:*** [**Master SQL for Data Science**](https://www.linkedin.com/learning/paths/master-sql-for-data-science)
