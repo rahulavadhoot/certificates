@@ -60,6 +60,9 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
 * ***Learning Path:*** [**Master SQL for Data Science**](https://www.linkedin.com/learning/paths/master-sql-for-data-science)
     * [Learning SQL Programming](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20SQL%20Programming.pdf)
 
+* ***Learning Path:*** [**Advance Your Skills as a Python Data Expert**](https://www.linkedin.com/learning/paths/advance-your-skills-as-a-python-data-expert)
+    * [NumPy Data Science Essential Training](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/NumPy%20Data%20Science%20Essential%20Training.pdf)
+
 * [Learning Git and GitHub](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20Git%20And%20Github.pdf)
 * [Python - Programming Efficiently](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Python%20-%20Programming%20Efficiently.pdf)
 * [Python - XML, JSON, and the Web](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Python%20-%20XML,%20JSON,%20and%20the%20Web.pdf)
