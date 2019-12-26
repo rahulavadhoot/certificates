@@ -51,6 +51,7 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
     * [Statistics Foundations 1](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Statistics%20Foundations%201.pdf)
     * [Learning Data Governance](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20Data%20Governance.pdf)
     * [Data Science Foundations - Data Mining](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Data%20Science%20Foundations%20-%20Data%20Mining.pdf)
+    * [Data Visualization - Storytelling](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Data%20Visualization%20-%20Storytelling.pdf)
 
 * ***Learning Path:*** [**Become a Python Developer**](https://www.linkedin.com/learning/paths/become-a-python-developer)
     * [Advanced Python](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Advanced%20Python.pdf)
