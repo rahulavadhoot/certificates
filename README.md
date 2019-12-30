@@ -55,6 +55,7 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
 
 * ***Learning Path:*** [**Become a Python Developer**](https://www.linkedin.com/learning/paths/become-a-python-developer)
     * [Programming Foundations - Algorithms](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Programming%20Foundations%20-%20Algorithms.pdf)
+    * [Learning Python Generators](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Learning%20Python%20Generators.pdf)
     * [Advanced Python](https://github.com/rahulavadhoot/certificates/tree/master/LinkedIn%20Learning/Advanced%20Python.pdf)
 
 * ***Learning Path:*** [**Master Python for Data Science**](https://www.linkedin.com/learning/paths/master-python-for-data-science)
