@@ -26,6 +26,10 @@ profile, Data Science [Portfolio](https://github.com/rahulavadhoot/data-science-
     * [Natural Language Processing in TensorFlow](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Natural%20Language%20Processing%20in%20TensorFlow.pdf)    
     * [Sequences, Time Series and Prediction](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/Sequences,%20Time%20Series%20and%20Prediction.pdf)
 
+* ***deeplearning.ai:*** [**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)
+
+    * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/R9HYD8HLE4YP)
+
 * ***IBM:*** [**IBM Data Science Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-data-science)
 
     * [What is Data Science?](https://github.com/rahulavadhoot/certificates/tree/master/Coursera/Data%20Science/What%20is%20Data%20Science.pdf)
